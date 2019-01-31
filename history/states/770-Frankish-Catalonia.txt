@@ -1,0 +1,23 @@
+
+state={
+	id=770
+	name="STATE_770"
+	manpower = 325684
+	
+	state_category = town
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			
+
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		943 3946 6915 6917 6931 9853  
+	}
+}

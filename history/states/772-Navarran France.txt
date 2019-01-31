@@ -1,0 +1,23 @@
+state={
+	id=772
+	name="STATE_772"
+	manpower = 1499316
+	
+	state_category = large_town
+	history={
+		owner = NAV
+		victory_points = {
+			6766 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+
+		}
+		add_core_of = NAV
+	}
+
+	provinces={
+		743 3740 3899 3915 9710 9882 9884 11697 11699 12169 
+	}
+}
