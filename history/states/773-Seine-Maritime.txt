@@ -1,26 +1,29 @@
-
 state={
-	id=31
-	name="STATE_31"
-	manpower = 973004
+	id=773
+	name="STATE_773"
+	manpower = 352641
 	
 	state_category = large_town
 
 	history={
 		owner = FRA
 		victory_points = {
-			6766 5 
+			9434 5
+		}
+		victory_points = {
+			11563 5
 		}
 		buildings = {
-			infrastructure = 6
+			infrastructure = 7
 			industrial_complex = 1
-			air_base = 2
-
+			485= {
+				naval_base = 1
+			}
 		}
 		add_core_of = FRA
 	}
 
 	provinces={
-		929 3749 3948 6759 6766 11702 
+		485 6569 9434 11563 
 	}
 }
