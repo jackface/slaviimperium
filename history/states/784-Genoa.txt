@@ -1,0 +1,31 @@
+
+state={
+	id=784
+	name="STATE_784"
+	manpower = 1101571
+	
+	state_category = town
+	resources={
+		steel=4
+		aluminium=6
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			6788 10 
+		}
+		buildings = {
+			infrastructure = 7
+			dockyard = 2
+			6788 = {
+				naval_base = 8
+			}
+		}
+		add_core_of = ITA
+	}
+
+	provinces={
+		6788  
+	}
+}

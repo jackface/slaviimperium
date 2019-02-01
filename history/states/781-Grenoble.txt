@@ -1,25 +1,28 @@
-
 state={
-	id=32
-	name="STATE_32" 
-	manpower = 381230
+	id=781
+	name="STATE_781" 
+	manpower = 626270
 	
 	state_category = rural
-	
+
 	resources={
 		steel=15
 		aluminium=15
 	}
+
 
 	history={
 		owner = FRA
 		buildings = {
 			infrastructure = 4
 		}
+		victory_points = {
+			3768 1 
+		}
 		add_core_of = FRA
 	}
 
 	provinces={
-		780 3589 6784 
+		762 3768 11713 
 	}
 }

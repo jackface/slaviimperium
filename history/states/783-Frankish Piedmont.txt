@@ -1,0 +1,36 @@
+
+state={
+	id=783
+	name="STATE_783"
+	manpower = 3537054
+	
+	state_category = large_city
+	resources={
+		steel=24 
+		aluminium=16 
+		chromium = 2 
+		tungsten = 1 
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			6780 5 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 7
+			industrial_complex = 1
+			dockyard = 2
+			air_base = 8
+			6788 = {
+				naval_base = 8
+			}
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		770 771 776 3772 3782  6780 9738 9741 11721 11723 11726 11730 11891 
+	}
+}
