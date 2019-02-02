@@ -1,16 +1,17 @@
 
 state={
-	id=788
-	name="STATE_788" 
-	manpower = 652861
+	id=789
+	name="STATE_789"
+	manpower = 573692
 	
 	state_category = town
+	resources={
+		steel=8
+		aluminium=2
+	}
 
 	history={
 		owner = FRA
-		victory_points = {
-			9490 5 
-		}
 		buildings = {
 			infrastructure = 5
 		}
@@ -18,6 +19,6 @@ state={
 	}
 
 	provinces={
-		3506 6518 9460 9490 9644  
+		454 6585 9561
 	}
 }

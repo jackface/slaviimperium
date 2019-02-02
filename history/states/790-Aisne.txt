@@ -1,0 +1,25 @@
+
+state={
+	id=790
+	name="STATE_790"
+	manpower = 496582
+	
+	state_category = town
+	resources={
+		steel=14 
+		aluminium=5
+	}
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		3402 3447 11549 
+	}
+}

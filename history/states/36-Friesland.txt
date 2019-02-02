@@ -2,14 +2,14 @@
 state={
 	id=36
 	name="STATE_36"
-	manpower = 2364000
+	manpower = 1904177
 
-	state_category = city
+	state_category = large_town
 
 	history={
 		owner = HOL
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			industrial_complex = 2
 			6336 = {
 				naval_base = 3
@@ -18,6 +18,6 @@ state={
 	}
 
 	provinces={
-		6241 6286 6336 9309 9335 9363 9403 11318 
+		6241 6286 6336 9335
 	}
 }

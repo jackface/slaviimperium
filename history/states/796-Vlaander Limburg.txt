@@ -1,0 +1,21 @@
+
+state={
+	id=796
+	name="STATE_796" 
+	manpower = 289621
+	
+	state_category = town
+
+	history={
+		owner = BEL
+		buildings = {
+			infrastructure = 6
+		}
+		
+		add_core_of = BEL
+	}
+
+	provinces={
+		9574 13068 
+	}
+}
