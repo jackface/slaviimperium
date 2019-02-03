@@ -6,7 +6,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = BEL
+		owner = WAL
 		victory_points = {
 			3516 5
 		}
@@ -20,10 +20,10 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = BEL
+		add_core_of = WAL
 	}
 
 	provinces={
-		3516 6537 9418 9444 9536 11407 11519 13081 
+		3516 6537 9418 9444 11407 11519 13081 
 	}
 }

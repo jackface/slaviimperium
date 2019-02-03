@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = BOU
 		victory_points = {
 			3652 5 
 		}
@@ -20,7 +20,7 @@ state={
 			industrial_complex = 2
 			air_base = 2
 		}
-		add_core_of = FRA
+		add_core_of = BOU
 	}
 
 	provinces={

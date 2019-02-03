@@ -7,12 +7,12 @@ state={
 
 
 	history={
-		owner = SWI
+		owner = BOU
 		victory_points = { 9620 15 }
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = SWI
+		add_core_of = BOU
 	}
 
 	provinces={

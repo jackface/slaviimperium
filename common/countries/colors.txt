@@ -1,7 +1,7 @@
 #reload countrycolors
 
 GER = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 153 125 130 }
 	color_ui = rgb { 138 155 116 }
 }
 ENG = {
@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 47 172 255 }
 }
 FRA = {
-	color = rgb { 107 141 173 }
-	color_ui = rgb { 74 147 255 }
+	color = rgb { 0 5 173 }
+	color_ui = rgb { 0 5 173 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
@@ -549,5 +549,33 @@ NOR = {
 }
 BRI = {
 		color = rgb { 163 174 175 }
-		color_ui = { 163 174 175 }
+		color_ui = rgb { 163 174 175 }
+}
+POI = {
+		color = rgb { 107  141  173 }
+		color_ui = rgb { 107  141  173 }
+}
+BOU = {
+		color = rgb { 57  113  228 }
+		color_ui = rgb { 57  113  228 }
+}
+ORL = {
+		color = rgb { 173 104 0 }
+		color_ui = rgb { 173 103 0 }
+}
+PAI = {
+		color = rgb { 26 173 161 }
+		color_ui = rgb { 26 173 161 }
+}
+FLA = {
+		color = rgb { 224  224  0 }
+		color_ui = rgb { 224  224  0 }
+}
+WAL = {
+		color = rgb { 177 224 192 }
+		color_ui = rgb { 177 224 192 }
+}
+BUR = {
+		color = rgb { 175 154 100 }
+		color_ui = rgb { 175 154 100 }
 }
