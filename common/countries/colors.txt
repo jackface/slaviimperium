@@ -27,7 +27,7 @@ LUX = {
 BEL = { color 	 = rgb { 193 171 8  }
 		color_ui = rgb { 251 222 10 }
 	  }
-HOL = {	color = rgb { 203 138 74 }
+HOL = {	color = rgb { 224 94 58 }
 		color_ui = rgb { 255 179 96 }
 }
 CZE = {	color = rgb { 54 167 156 }
@@ -578,4 +578,12 @@ WAL = {
 BUR = {
 		color = rgb { 175 154 100 }
 		color_ui = rgb { 175 154 100 }
+}
+SCO = {
+		color = rgb { 183 134 0 }
+		color_ui = { 183 134 0 }
+}
+NIE = {
+		color = rgb { 124 52 21 }
+		color_ui = { 124 52 21 }
 }
