@@ -1,0 +1,21 @@
+state= {
+	id=799
+	name="STATE_799"
+	manpower = 21352
+	
+	state_category = wasteland
+
+	history=
+	{
+		owner = NIE
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NIE
+	}
+
+	provinces=
+	{
+		6062 13208 13209 13210 13211 13212
+ 	}
+}
