@@ -2,12 +2,12 @@
 state={
 	id=461
 	name="STATE_461"
-	manpower = 3197719
+	manpower = 2962617
 	
 	state_category = rural
 	
 	history={
-		owner = FRA
+		owner = GRA
 
 		victory_points = {
 			7069 10 
@@ -20,9 +20,10 @@ state={
 				naval_base = 4
 			}
 		}
+		add_core_of = GRA
 	}
 
 	provinces={
-		989 1079 1111 1194 4084 4097 4139 7069 7100 7116 7173 10013 10023 10070 11943 11987 12042 
+		1079 1194 4084 4097 7069 7100 7173 10013 10023 10070  11987 12042 
 	}
 }

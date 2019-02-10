@@ -5,14 +5,14 @@ state={
 	manpower = 744000
 	
 	
-	state_category = rural
+	state_category = town
 	
 	resources={
 		steel=15 # was: 20
 	}
 
 	history={
-		owner = SPR
+		owner = GRA
 		victory_points = {
 			9945 5 
 		}
@@ -23,6 +23,7 @@ state={
 				naval_base = 3
 			}
 		}
+		add_core_of = GRA
 	}
 
 	provinces={

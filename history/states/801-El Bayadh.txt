@@ -1,0 +1,19 @@
+
+state={
+	id=801
+	name="STATE_801" 
+	manpower = 596823
+	
+	state_category = rural
+
+	history={
+		owner = ARA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		1128 3991 4018 4150 7033 7008 7040 7149 9960 10045 12018 12020 13074   
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=800
+	name="STATE_800"
+	manpower = 235102
+	
+	state_category = rural
+	
+	history={
+		owner = FRA
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		989 1111 7116
+		}
+}

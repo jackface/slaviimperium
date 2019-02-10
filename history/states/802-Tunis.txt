@@ -1,0 +1,32 @@
+
+state={
+	id=802
+	name="STATE_802"
+	manpower = 1586417
+	state_category = town
+	resources={
+		steel=10
+	}
+
+	history={
+		owner = ARA
+		victory_points = {
+			11969 10 
+		}
+		victory_points = {
+			9994 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 8
+			9994 = {
+				naval_base = 8
+			}
+		}
+	}
+
+	provinces={
+		1046 4163 7180 9994 10091 11969 
+	}
+}
