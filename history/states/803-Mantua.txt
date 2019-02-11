@@ -1,0 +1,19 @@
+
+state={
+	id=803
+	name="STATE_803"
+	manpower = 386921
+	state_category = town
+	history={
+		owner = ADR
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		773 3776 11734
+	}
+}

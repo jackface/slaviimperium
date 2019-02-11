@@ -5,9 +5,8 @@ state={
 	state_category = city
 
 	history={
-		owner = ITA
-		add_core_of = ITA
-		add_core_of = YUG
+		owner = ADR
+		add_core_of = ADR
 		buildings = {
 			infrastructure = 2
 			11735 = {

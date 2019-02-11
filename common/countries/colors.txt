@@ -587,3 +587,7 @@ NIE = {
 		color = rgb { 124 52 21 }
 		color_ui = { 124 52 21 }
 }
+ADR = {
+		color = rgb { 196 49 51 }
+		color_ui = { 196 49 51 }
+}
