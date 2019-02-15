@@ -1,0 +1,23 @@
+
+state={
+	id=815
+	name="STATE_815"
+	manpower=269852
+	
+	state_category = rural
+	
+	history={
+		owner = ROM
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			6711 5 
+		}
+		add_core_of = ROM
+	}
+
+	provinces={
+		711 3689 9668 9670 
+	}
+}

@@ -1,22 +1,21 @@
+
 state={
-	id=71
-	name="STATE_71"
-	manpower = 1197800
+	id=816
+	name="STATE_816"
+	manpower = 345237
 	
 	state_category = rural
-	
+
 	history={
 		owner = HUN
 		buildings = {
-			infrastructure = 4
+			infrastructure = 5
 			industrial_complex = 2
 		}
 		add_core_of = HUN
-
-		
 	}
 
 	provinces={
-		555 581 3550 3581 6586 6604 11554 
+		646 9606 11608 
 	}
 }

@@ -1,8 +1,8 @@
 
 state={
 	id=52
-	name="STATE_52"
-	manpower = 2679413
+	name="STATE_52" #Oberbayern
+	manpower = 2679413 
 	resources={
 		aluminium=18 # was: 30
 	}
@@ -10,7 +10,7 @@ state={
 	state_category = city
 
 	history={
-		owner = GER
+		owner = AUS
 		victory_points = {
 			692 30
 		}
@@ -20,13 +20,9 @@ state={
 			industrial_complex = 1
 			air_base = 6
 		}
-		add_core_of = GER
+		add_core_of = AUS
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 10
-			}
-		}
+	
 	}
 
 	provinces={

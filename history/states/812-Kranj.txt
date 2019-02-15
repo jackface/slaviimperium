@@ -1,0 +1,19 @@
+state=
+{
+	id=812
+	name="STATE_812"
+	manpower = 98652
+	
+	state_category = pastoral
+	
+	history =
+	{
+		owner = AUS
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = AUS
+	}
+	provinces={
+		9596 11612 	}
+	}
