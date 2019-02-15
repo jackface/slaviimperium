@@ -1,13 +1,13 @@
 
 state={
-	id=449
-	name="STATE_449" # El Agheila
-	manpower = 39463
+	id=809
+	name="STATE_809" # El Agheila
+	manpower = 1333
 	
 	state_category = enclave
 
 	history={
-		owner = ADR
+		owner = ITA
 		buildings = {
 			infrastructure = 3
 		}
@@ -15,6 +15,6 @@ state={
 	}
 
 	provinces={
-		1041 4047 10046 10117 12088 
+		1198 4057 4200 7076 8069 
 	}
 }

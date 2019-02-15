@@ -1,0 +1,21 @@
+
+state={
+	id=807
+	name="STATE_807" 
+	manpower = 39651
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = ADR
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces={
+		10868 
+	}
+}
