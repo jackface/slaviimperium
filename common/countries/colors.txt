@@ -62,8 +62,8 @@ ITA = {
 	color_ui = rgb { 87 165 82 }
 }
 ROM = {
-	color = rgb { 215 196 72 }
-	color_ui = rgb { 255 255 120 }
+	color = rgb { 193 190 122 }
+	color_ui = rgb { 193 190 122 }
 }
 YUG = {
 	color = rgb { 72 73 126 }
@@ -78,7 +78,7 @@ TUR = {
 	color_ui = rgb { 222 247 198 }
 }
 GRE = {
-	color = rgb { 93 181 227 }
+	color = rgb { 193 35 0 }
 	color_ui = rgb { 121 235 255 }
 }
 ALB = {
@@ -110,7 +110,7 @@ IRE = {
 	color_ui = rgb { 104 207 117 }
 }
 HUN = {
-	color = rgb { 249 126 98 }
+	color = rgb { 211 141 156 }
 	color_ui = rgb { 255 164 127 }
 }
 AFG = {
@@ -359,7 +359,7 @@ SYR = {
 }
 
 SER = {
-	color = rgb { 160 110 110 }
+	color = rgb { 196 109 96 }
 	color_ui = rgb { 160 110 110 }
 }
 
@@ -585,9 +585,17 @@ SCO = {
 }
 NIE = {
 		color = rgb { 124 52 21 }
-		color_ui = { 124 52 21 }
+		color_ui = rgb { 124 52 21 }
 }
 ADR = {
 		color = rgb { 196 49 51 }
-		color_ui = { 196 49 51 }
+		color_ui = rgb { 196 49 51 }
+}
+MOL = {
+		color = rgb { 0 61 193 }
+		color_ui = rgb { 0 61 193 }
+}
+BOS = {
+		color = rgb { 190 193 85 }
+		color_ui = rgb { 190 193 85 }
 }

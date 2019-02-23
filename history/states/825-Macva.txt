@@ -1,21 +1,20 @@
 state={
-	id=817
-	name="STATE_817"
+	id=825
+	name="STATE_825"
 
 	history={
-		owner = SER
+		owner = BOS
 		buildings = {
 			infrastructure = 6
-
 		}
-		add_core_of = SER
+		add_core_of = BOS
 
 	}
 
 	provinces={
-		614 3614 11580 
+		797 3609  
 	}
-	manpower=353565
+	manpower=196325
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

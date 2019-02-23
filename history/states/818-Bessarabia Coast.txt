@@ -1,0 +1,22 @@
+state=
+{
+	id=818
+	name="STATE_818"
+	manpower = 537249
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = MOL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = MOL
+	}
+	provinces=
+	{
+	687 3076 3701 3704 3724 11636
+	}
+}

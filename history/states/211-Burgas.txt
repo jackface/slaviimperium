@@ -2,13 +2,13 @@
 state={
 	id=211
 	name="STATE_211"
-	manpower = 1575499
+	manpower = 1481814
 
 
 	state_category = town
 
 	history={
-		owner = BUL
+		owner = ROM
 		victory_points = {
 			9783 5
 		}
@@ -23,9 +23,10 @@ state={
 			}
 		}
 		add_core_of = BUL
+		add_core_of = ROM
 	}
 
 	provinces={
-		649 6967 9612 9769 9783 9888 9902 9919 
+		649 6967 9612 9769 9783 9919 
 	}
 }

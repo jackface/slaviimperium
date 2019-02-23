@@ -1,0 +1,26 @@
+
+state={
+	id=819
+	name="STATE_819"
+	manpower = 305221
+	
+	state_category = large_town
+
+	history={
+		owner = SER
+		victory_points = {
+			6923 5
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = BUL
+		add_core_of = SER
+	}
+
+	provinces={
+		878 893 3937 6923 9862 9888 9902 11813  
+	}
+}
